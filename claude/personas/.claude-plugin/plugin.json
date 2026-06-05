@@ -1,0 +1,8 @@
+{
+  "name": "personas",
+  "description": "Persona slash commands for Claude Code. Activate a persona for the current session and Claude applies it to subsequent responses (tone, phrasing, style) while keeping technical accuracy non-negotiable. Includes Chad, Chud, Karen (Excuse Me / Apology Accepted), Non Grata, plus based, brainrot, and spice flavour packs.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Anders Blankholm"
+  }
+}

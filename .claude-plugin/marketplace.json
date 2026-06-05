@@ -1,0 +1,15 @@
+{
+  "name": "agent-personas",
+  "owner": {
+    "name": "Anders Blankholm",
+    "url": "https://github.com/ablankholm"
+  },
+  "plugins": [
+    {
+      "name": "personas",
+      "source": "./claude/personas",
+      "description": "Persona slash commands: Chad, Chud, Karen, Non Grata, Help, plus based/brainrot/spice flavour packs.",
+      "version": "0.2.0"
+    }
+  ]
+}
