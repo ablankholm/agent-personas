@@ -1,5 +1,7 @@
 # Agent Personas
 
+![Brainrot persona activating in Claude Code — running a currency check against trending slang before committing to the bit](assets/demo-brainrot.png)
+
 Persona slash commands for AI coding agents. Activate a persona for the current session and the agent will apply it to subsequent responses (tone, phrasing, style) while keeping technical accuracy non-negotiable.
 
 Currently ships:
